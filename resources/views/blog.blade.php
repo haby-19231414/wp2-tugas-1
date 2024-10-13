@@ -11,7 +11,7 @@
 
 nav {
     background: rgb(11, 0, 91);
-    padding: 15px 0px;
+    padding: 50px 0px;
     display: grid;
     place-items: center;
 }
@@ -49,7 +49,7 @@ section > div {
 
     <section>
         <div>
-            <h1>Ini Adalah Halaman Blog</h1>
+            <h1>INI ADALAH TAMPILAN HALAMAN BLOG</h1>
         </div>
     </section>
 </body>

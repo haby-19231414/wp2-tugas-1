@@ -11,7 +11,7 @@
 
 nav {
     background: rgb(11, 0, 91);
-    padding: 15px 0px;
+    padding: 50px 0px;
     display: grid;
     place-items: center;
 }
@@ -50,8 +50,9 @@ section > div {
 
 <section>
         <div>
-            <h2>Ini adalah halaman home</h2>
+            <h2>Ini ADALAH TAMPILAN HALAMAN HOME</h2>
         </div>
+        <marquee>ini halaman home</marquee>
 </section>
 </body>
 </html>

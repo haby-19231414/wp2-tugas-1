@@ -12,7 +12,7 @@
 
 nav {
     background: rgb(11, 0, 91);
-    padding: 15px 0px;
+    padding: 50px 0px;
     display: grid;
     place-items: center;
 }
